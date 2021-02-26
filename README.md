@@ -24,6 +24,4 @@
 22. if job has no error then it gives status as : SUCCESS
 23. else : FAILURE
 
-jenkins login
-user : Dipti
-password : Harman@321
+
